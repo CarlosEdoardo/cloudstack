@@ -24,7 +24,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>11</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.cloudstack</groupId>
@@ -135,7 +135,7 @@
         <cs.cglib.version>3.3.0</cs.cglib.version>
         <cs.checkstyle-lib.version>8.18</cs.checkstyle-lib.version>
         <cs.cron-utils.version>9.2.0</cs.cron-utils.version>
-        <cs.cxf.version>3.2.14</cs.cxf.version>
+        <cs.cxf.version>3.5.10</cs.cxf.version>
         <cs.ehcache.version>2.6.11</cs.ehcache.version>
         <cs.globodns-client.version>0.0.27</cs.globodns-client.version>
         <cs.google-http-client>1.42.3</cs.google-http-client>
@@ -919,7 +919,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -932,7 +932,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -946,7 +946,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -959,7 +959,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
